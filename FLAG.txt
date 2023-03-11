@@ -1,0 +1,1 @@
+What is the VIN of the vehicle whose CAN bus data is in this log file?
